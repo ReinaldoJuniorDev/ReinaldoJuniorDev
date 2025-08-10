@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Reinaldo Junior
+#  Reinaldo Junior
 
 **`Desenvolvedor Front-end`**
 
